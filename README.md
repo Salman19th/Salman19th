@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 <h3 align="center">I translate complex data into compelling narratives, unlocking actionable insights that inspire transformation.</h3>
+<img align="right" alt="coding" width="350" height="300" src="http://www.ubalt.edu/merrick/uploads/660x450-mobile-homepage/660x450-Infographic%20Icons_Data%20Analytics.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman19th&label=Profile%20views&color=0e75b6&style=flat" alt="salman19th" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **salmankhan.cs19@gmail.com**
 
-- ⚡ Fun fact **Decoding data is like solving a mystery—every dataset is a puzzle, and every insight is a clue waiting to drive change!**
+- ⚡ Fun fact **Data is like a detective story—hidden patterns are the clues, and insights solve the case!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
